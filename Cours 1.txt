@@ -1,0 +1,139 @@
+Développement Web Mobile - ELLE MBENG Davy ellembeng.davy@ynov.com
+
+Introduction aux PWA (Progressive Web App)
+Prend de l'ampleur
+
+/------------ INTRODUCTION ---------------/
+
+Une Progressive Web App est une application Web qui permet de donner un apperçu d'application mobile native quand l'utilisateur est sur un téléphone
+
+PWA terme marketing (Américain ingénieurs Google), c'est une meilleure façon de travailler
+Equivalent terminologique Apple -> HTML5 Apps ou Homescreen Web App
+
+But : créer des applications web qu sont utilisables sur toutes les plateformes avec une expérience utilisateur proche des applications natives
+
+Avantages : coût de développement réduit, utilisable sur toutes les plateformes avec un seul code, utilisation hors ligne
+
+Langages Web : HTML, CSS, Javascript
+HTML et CSS -> code éxecuté une seule fois
+Javascript -> code orienté objet, dynamique
+
+Evolution des navigateurs Web : les PWA reposent sur la monté en puissance en terme de focntionnalité des navigateurs web
+
+
+/-------------- PRESENTATION -----------------/
+
+PRPL (Push, Render, Pre-cache, Lazy load) : ensemble de fonctionnalité à maîtriser pour améliorer le temps de chargement d'une application quelconque et d'autant plus pour une PWA
+
+FIRE (Fast, Integrated, Reliable, Engaging) : ensemble de cahier des charges à respecter par une PWA. Une PWA doit être rapide au chargement et à l'utilisation, l'utilisateur ne doit voir aucune différence entre la PWA et une application native, utilisable hors ligne et doit pouvoir envoyer des notifications
+
+Exemple de PWA : Alibaba, Twitter Lite, Rue du Commerce, AliExpress
+
+Les PWA sont les "meilleures appli mobiles"
+
+
+/--------------- PROBLEMATIQUE -----------------/
+
+APPLICATIONS NATIVES
+Application native : dépend de la plateforme sur laquelle elle est développé (Java pour Android, Swift ou Objective C pour IOS)
+
+Avantages : on est au plus proche du matériel, toutes les fonctionnalités de l'appareil peuvent être pleinement utilisées garantissant ainsi une performance de l'application (une application de jeux vidéo sur mobile sera par exemple développée en native)
+
+Inconvénients : pour déployer notre application sur les plateformes Adnroid ou IOS il faut maîtriser deux langages différents et développer en fait deux solutions distinctes de la même application, le coût de l'application se retrouve ainsi plus considérable
+
+
+APPLICATIONS HYBRIDES
+Application hybride : basée sur des technologies web tout en ayant la possibilté d'utiliser les fonctionnalités natives de l'appareil de l'utilisateur. Des frameworks tels que React Native, Ionic, HAPI permettent de développer des applications hybrides
+
+Avantages : un seul code source permet de générer plusieurs applucations pour une utilisation sur différentes plateformes, ce qui est un gain en maintenabilité et de coûts
+
+Inconvénients : les performances sont moindres même si avec les dernières avancées il n'y a plus vraiment de différence visible entre une application native et une application à développer. Et il n'y a pas vraiment de standard établit pour ce type d'application
+
+
+APPLICATIONS WEB
+Applciation Web : basée sur des technologies web
+
+Avantages : un seul code source permet de générer une seule application utilisable par toutes les plateformes à conditiion d'y installer un navigateur web
+
+Inconvénient : non utilisable hors ligne, dépend du navigateur web, pas d'accès aux fonctionnalités natives du téléphone
+
+
+PROGRESSIVE WEB APP
+Progressive Web App : application web permettant l'utilisation des fonctionnalités natives de l'appareil de l'utilisateur grâce aux avancées techniques des navigateurs web
+
+Avantages : un seul code source respectant les standards web permettant de générer une seule application fonctionnelle hors ligne et utilisable sur toutes les plateformes à condition d'y installer un navigateur web tout en offrant la possibilité d'accéder aux fonctionnalités natives de l'appareil de l'utilisateur
+
+Inconvénient : les performances sont moindres même si avec les dernières avancées des navigateurs web il n'y a plus vraiment de différence visible entre une application hybride et une PWA. Tout dépend également du but de l'application à développer
+
+
+/---------- RAPPELS -------------/
+
+HTML
+Créé en 1991 par Tim Berners-Lee en même temps que le World Wide Web et inspiré du SGML (Standard Generalized Markup Language) qui était déjà en vigeur au CERN
+
+Langage Hypertexte, c'est à dire envoyant des instructions à la machine pour l'organisation et la structuration de texte et contenus multimédias
+
+Un document HTML est un fichier d'extension .html
+
+
+CSS
+Feuilles de style en cascade : langage apparu en 1996 il a été conçu pas CSS Work Group
+
+Langage permettant de caractériser la forme des documents HTML et XML
+
+Essor dans les années 2000
+
+Un document css et un fichier d'extension .css
+
+
+Javascript
+Javascript est un langage orienté objet inventé par Brendan Eich et voit le jour en 1995
+
+Au cour du web : il s'agit du langage orienté objet le plus utilisé dans le domaine du web, il permet d'avoir des applications webs dynamique
+
+Le code est compilé à la volé éventuelement par le client
+fgbfb
+Un document Javascript est un fichier d'extension .js
+
+
+/---------- OBJECTIFS ------------/
+
+Démarche : durant ce cours nosu allons travailler à partir d'une application web statique développée sans framework
+
+But : transformer l'application en PWA étaoe par étape pour pouvoir assimiler aisément les enjeux des PWA
+
+Quelques frameworks tels que Ionic proposent désormais la prise en charge de l'implémentation des PWA
+
+
+/--------- EXERCICE --------------/
+
+Créer une page web affichant plusieurs images réparties par blocs
+Utiliser une vue nommée index.html
+Utiliser une feuille de style implémentée manuellement ou récupéré sur le web
+Utiliser le javascript gérant l'affichage des blocs images
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
