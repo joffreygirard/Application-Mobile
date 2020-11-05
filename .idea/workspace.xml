@@ -20,10 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d11c8e-b605-40a9-a3ed-109c622b165f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercice1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercice1/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/images/image9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/images/image9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Gallerie/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603972806034</updated>
       <workItem from="1603972807741" duration="7991000" />
-      <workItem from="1604561833050" duration="2959000" />
+      <workItem from="1604561833050" duration="3270000" />
     </task>
     <servers />
   </component>
