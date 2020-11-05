@@ -7,22 +7,86 @@ let row = document.createElement("div");
 row.classList.add("row");
 
 let images = [
-    "images/image1.jpg",
-    "images/image2.jpg",
-    "images/image3.jpg",
-    "images/image4.jpg",
-    "images/image5.jpg",
-    "images/image6.jpg",
-    "images/image7.jpg",
-    "images/image8.jpg",
-    "images/image9.jpg",
-    "images/image10.jpg",
-    "images/image11.jpg",
-    "images/image12.jpg",
-    "images/image13.jpg",
-    "images/image14.jpg",
-    "images/image15.jpg",
-    "images/image16.jpg",
+    {
+        src: "images/image1.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image2.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image3.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image4.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image5.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image6.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image7.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image8.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image9.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image10.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image11.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image12.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image13.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image14.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image15.jpg",
+        alt: "",
+        description: "",
+    },
+    {
+        src: "images/image16.jpg",
+        alt: "",
+        description: "",
+    },
 ];
 
 images.forEach(function (image) {
@@ -30,7 +94,7 @@ images.forEach(function (image) {
     div_image.classList.add("col-sm-6", "col-md-4", "col-lg-3", "p-2");
 
     let img = document.createElement("img");
-    img.src = image;
+    img.src = image.src;
     img.classList.add("w-100", "on_hover_clickable");
 
     div_image.appendChild(img);

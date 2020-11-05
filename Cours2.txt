@@ -1,0 +1,63 @@
+/------------ AVANT PROPOS ----------------/
+
+/---------- ENJEUX ----------/
+
+Avant de se lancer dans le développement d'une PWA il faut s'assurer au préalable que l'application rentre dans le cadre du responsive web design
+
+Responsive web design : quelques bonnes pratiques permettant de rendre agréable l'expérience utilisateur
+
+
+/-------------- ADAPTATION EN FONCTION DE LA TAILLE DE L'ECRAN UTILISATEUR -----------/
+
+L'application doit être adaptée à la taille de l'écran de l'utilisateur
+
+Update l'entête de index.html
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+Update de style.css pour spécifier le style en fonction de la taille de l'écran :
+    @media screen and (max-width: 768px) {
+
+    }
+    @media screen and (max-width: 1023px) {
+
+    }
+    @media screen and (max-width: 1408px) {
+
+    }
+
+D'autres fonctionnalités des media queries peuven être exploitées
+
+
+/------------------- OUTILS D'AIDE AU DEVELOPPEMENT --------------/
+
+Pour tester le caractère responsive la plupart des navigateurs web proposent un aide d'aide au développement
+
+Google chrome : inspecter l'élément
+
+Remote debugging : il est souvent nécessaire d'utiliser le mode remote debugging afin de faire les etsts directement sur un mobile connecté par câble usb
+
+Audit : avant d'apporter des modifications sur l'application pour la transformer en PWA il est nécessaire de regarder les axes d'améliorations. Chrome propose le service Lighthouse pour se faire
+
+Lighthouse sur Chrome : Personnaliser et contrôler
+
+
+
+/--------------- Déploiement Netlify -------------/
+
+Netlify : hébergeur gratuit permettant d'avoir un environnement proche de celui de production pour l'application web développée
+
+Etape 1 : Créer un nouveau projet github avec un nouveau repository de nom Galerie
+
+Etape 2 :
+
+Etape 3 :
+
+Etape 4 :
+
+
+
+
+
+
+
+
